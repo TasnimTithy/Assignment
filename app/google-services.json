@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "764593937219",
+    "firebase_url": "https://sensoractivity-39961.firebaseio.com",
+    "project_id": "sensoractivity-39961",
+    "storage_bucket": "sensoractivity-39961.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764593937219:android:4d67814f7905e45b736df6",
+        "android_client_info": {
+          "package_name": "com.example.sensoractivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764593937219-8kg882vabrmbhvi0pcd5l5g7uk8dltqf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sensoractivity",
+            "certificate_hash": "dd7883f7e7de7c8444eeb961758582a980192ba3"
+          }
+        },
+        {
+          "client_id": "764593937219-p4a83nstp8o0flj4g0gr8cbqk6rsg10t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbYdOK2h-cXOphS8bsXvhzAphWiAVxWmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764593937219-p4a83nstp8o0flj4g0gr8cbqk6rsg10t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
